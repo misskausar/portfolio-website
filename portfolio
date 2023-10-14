@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kausar Ghaznawi</title>
+</head>
+<body>
+    <!--header start-->
+    <section id="header">
+        <div class="header container">
+            <div class="nav-bar">
+                <div class="brand">
+                    <a href="#hero">
+                        <h1><span>K</span>ausar <span>G</span>haznawi</h1>
+                    </a>
+                </div>
+
+            </div>
+            <div class="nav-list">
+                <div class="hamburger">
+                    <div class="bar"></div>
+                </div>
+                <ul>
+                    <li><a href="#hero" data-after="home">Home</a></li>
+                    <li><a href="#services" data-after="home">services</a></li>
+                    <li><a href="#project" data-after="home">project</a></li>
+                    <li><a href="#about" data-after="home">about</a></li>
+                    <li><a href="#contact" data-after="home">contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!--Header section end-->
+
+    <!--Hero section-->
+    <section id="hero">
+        <div class="hero container">
+            <div>
+                <h1>Hello,<span></span></h1>
+                <h1>My name is <span></span></h1>
+                <h1>Kausar <span></span></h1>
+                <a href="#projects" type="button" class="cta">Portfolio</a>
+            </div>
+        </div>
+    </section>
+
+    <!--Hero section-->
+
+    <!--service section start-->
+    <section id="services">
+        <div class="services container">
+            <div class="services top">
+                <h1 class="section-title">Serv<span>i</span>ces</h1>
+                <p>I have a strong background in web development, having worked as both a front-end and back-end developer for several years. My skills include HTML, CSS, JavaScript, ReactJS, NodeJS, PHP, and MySQL. I am also familiar with popular frameworks such as Bootstrap and Laravel.</p>
+            </div>
+            <div class="services-bottom">
+                <!--service item1-->
+                <div class="services-item">
+                    <div class="icon"><img width="100" height="100" src="https://img.icons8.com/ios/100/service--v1.png" alt="service--v1"/></div>
+                    <h1>Web Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus labore molestias fugiat, ducimus voluptatum ipsam repellat, dignissimos iusto fuga quia earum quae officia error accusantium eaque. Fugiat beatae quis in!</p>
+                </div>
+                <!--service item2-->
+                <div class="services-item">
+                    <div class="icon"><img width="100" height="100" src="https://img.icons8.com/ios/100/service--v1.png" alt="service--v1"/></div>
+                    <h1>Web Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus labore molestias fugiat, ducimus voluptatum ipsam repellat, dignissimos iusto fuga quia earum quae officia error accusantium eaque. Fugiat beatae quis in!</p>
+                </div>
+                <!--services item3-->
+                <div class="services-item">
+                    <div class="icon"><img width="100" height="100" src="https://img.icons8.com/ios/100/service--v1.png" alt="service--v1"/></div>
+                    <h1>Web Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus labore molestias fugiat, ducimus voluptatum ipsam repellat, dignissimos iusto fuga quia earum quae officia error accusantium eaque. Fugiat beatae quis in!</p>
+                </div>
+                <!--services item4-->
+                <div class="services-item">
+                    <div class="icon"><img width="100" height="100" src="https://img.icons8.com/ios/100/service--v1.png" alt="service--v1"/></div>
+                    <h1>Web Design</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus labore molestias fugiat, ducimus voluptatum ipsam repellat, dignissimos iusto fuga quia earum quae officia error accusantium eaque. Fugiat beatae quis in!</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--service section end-->
+
+    <!--project section start-->
+    <section id="projects">
+        <div class="projects-container">
+            <h1 class="section-title">Recent <span>Projects</span></h1>
+        </div>
+        <div class="all-projects">
+              
+            <!--project 1-->
+            <div class="projects-item">
+                <div class="projects-info">
+                    <h1>Project 1</h1>
+                    <h2>HTML is Love</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis alias dicta. Laudantium velit nam est culpa, nobis magnam fuga! Aspernatur unde, magnam sit necessitatibus suscipit voluptates nemo minus assumenda.</p>
+                </div>
+                <div class="project-img">
+                    <img src="./assets.webp" alt="image of project 1">
+                </div>
+            </div>
+
+            <!--project 2-->
+            <div class="projects-item">
+                <div class="projects-info">
+                    <h1>Project 2</h1>
+                    <h2>HTML is Love</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis alias dicta. Laudantium velit nam est culpa, nobis magnam fuga! Aspernatur unde, magnam sit necessitatibus suscipit voluptates nemo minus assumenda.</p>
+                </div>
+                <div class="project-img">
+                    <img src="./assets.webp" alt="image of project 1">
+                </div>
+            </div>
+
+            <!--project 3-->
+            <div class="projects-item">
+                <div class="projects-info">
+                    <h1>Project 3</h1>
+                    <h2>HTML is Love</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis alias dicta. Laudantium velit nam est culpa, nobis magnam fuga! Aspernatur unde, magnam sit necessitatibus suscipit voluptates nemo minus assumenda.</p>
+                </div>
+                <div class="project-img">
+                    <img src="./assets.webp" alt="image of project 1">
+                </div>
+            </div>
+
+            <!--project 4-->
+            <div class="projects-item">
+                <div class="projects-info">
+                    <h1>Project 4</h1>
+                    <h2>HTML is Love</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis alias dicta. Laudantium velit nam est culpa, nobis magnam fuga! Aspernatur unde, magnam sit necessitatibus suscipit voluptates nemo minus assumenda.</p>
+                </div>
+                <div class="project-img">
+                    <img src="./assets.webp" alt="image of project 1">
+                </div>
+            </div>
+
+            <!--project 5-->
+            <div class="projects-item">
+                <div class="projects-info">
+                    <h1>Project 5</h1>
+                    <h2>HTML is Love</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque perferendis alias dicta. Laudantium velit nam est culpa, nobis magnam fuga! Aspernatur unde, magnam sit necessitatibus suscipit voluptates nemo minus assumenda.</p>
+                </div>
+                <div class="project-img">
+                    <img src="./assets.webp" alt="image of project 1">
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!--project section end-->
+
+    <!--about section start-->
+    <section id="about">
+        <div class="about-container">
+            <div class="col-left">
+                <div class="about-img">
+                    <img src="./girl2.avif" alt="second image">
+                </div>
+                <div class="col-right">
+                    <h1 class="section-title">About <span>me</span></h1>
+                    <h2>Front End Developer</h2>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum a amet eveniet voluptatum quo omnis sint eum consequatur, et fuga ut optio non sit vero eaque aliquam culpa tempora neque.</p>
+                    <a href="#" class="cta">Download Resume</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--about section end-->
+
+    <!--contact section start-->
+    <section id="contact">
+        <div class="contact-container">
+            </div>
+            <h1 class="section-title">Contact <span>info</span></h1>
+            <div class="contact-item">
+                <!--Phone-->
+                <div class="contact-item">
+                    <div class="icon"><img src="./icons8-phone-100.png">
+                        <h1>Phone</h1>
+                        <h2>+1 123 345 678</h2>
+                        <h2>+1 123 345 678</h2>
+                    </div>
+                </div>
+
+                <!--email-->
+                <div class="contact-item">
+                    <div class="icon"><img src="./icons8-letter-100.png">
+                        <h1>Email</h1>
+                        <h2>kausarghaznawi@gmail.com</h2>
+                        <h2>kausarghaznawi1@gmail.com</h2>
+                    </div>
+
+                 <!--Address-->
+                 <div class="contact-item">
+                    <div class="icon"><img src="./icons8-location-100.png">
+                        <h1>Address</h1>
+                        <h2>Abdra road peshawar pakistan</h2>
+                    </div>
+            </div>
+    </section>
+
+    <!--contact section end-->
+
+    <!--footer section start-->
+    <section id="footer">
+        <div class="footer-container">
+            <div class="brand">
+                <h1><span>K</span>ausar <span>G</span>haznawi</h1>
+            </div>
+            <h2>Your Complate Web Solution</h2>
+            <div class="social-icons">
+                <!--github-->
+                <div class="social-item">
+                    <a href="#"><img src="./icons8-github-100.png"></a>
+                </div>
+
+                <!--youtube-->
+                <div class="social-item">
+                    <a href="#"><img src="./icons8-youtube-100.png"></a>
+                </div>
+
+                <!--linkedin-->
+                <div class="social-item">
+                    <a href="#"><img src="./icons8-linkedin-100.png"></a>
+                </div>
+
+                  <!--twitter-->
+                  <div class="social-item">
+                    <a href="#"><img src="./icons8-phone-100.png"></a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--footer section end-->
+
+</body>
+</html>
